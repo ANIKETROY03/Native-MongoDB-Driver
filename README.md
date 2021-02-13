@@ -2,5 +2,5 @@
 Getting started with Native MongoDB Driver
 
 
-npm init -y
+npm init -y\
 node app.js
